@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="FindMyCar.iOS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MojioAPIManager.cs">
+    <Files>
+      <File FileName="Main.cs" Line="8" Column="15" />
+      <File FileName="MyViewController.cs" Line="27" Column="1" />
+      <File FileName="MojioAPIManager.cs" Line="46" Column="37" />
+      <File FileName="LocationUpdatedEventArgs.cs" Line="2" Column="20" />
+      <File FileName="Location Manager.cs" Line="2" Column="1" />
+      <File FileName="Entitlements.plist" />
+      <File FileName="AppDelegate.cs" Line="25" Column="4" />
+      <File FileName="porgram.cs" Line="163" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.FindMyCar.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FA9A1EBE-DD05-4539-B0C0-7122933423B8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ethanpoortenga/Projects/WheelsUp/iOS/EmptyClass.cs" line="56" column="5" />
+      <Breakpoint file="/Users/ethanpoortenga/Projects/WheelsUp/iOS/MojioAPICalls.cs" line="74" column="5" />
+      <Breakpoint file="/Users/ethanpoortenga/Projects/FindMyCar/iOS/MojioAPIManager.cs" line="133" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
