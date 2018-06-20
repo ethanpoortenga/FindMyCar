@@ -135,8 +135,8 @@ namespace FindMyCar.iOS
 
 			///USUALLY NOT COMMENTED vvv
 
-			//string username = "ethanp@moj.io";
-			//string password = "Poortenga.13";
+			//string username = "XXXXX";
+			//string password = "XXXXX";
 			//string redirectUri = "https://www.google.com";
 			//string clientId = "062305af-78a8-4e1e-927f-01dc9f0ddf70";
 			//string clientSecret = "83910bc8-9342-4efd-8694-598b898a9215";
