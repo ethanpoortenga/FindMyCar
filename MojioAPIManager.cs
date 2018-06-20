@@ -138,8 +138,8 @@ namespace FindMyCar.iOS
 			//string username = "XXXXX";
 			//string password = "XXXXX";
 			//string redirectUri = "https://www.google.com";
-			//string clientId = "062305af-78a8-4e1e-927f-01dc9f0ddf70";
-			//string clientSecret = "83910bc8-9342-4efd-8694-598b898a9215";
+			//string clientId = "XXXXX";
+			//string clientSecret = "XXXXX";
 			//string scope = "full";
 
 			//var payload = string.Format("grant_type=password&username={0}&password={1}&redirect_uri={2}&client_id={3}&client_secret={4}&scope={5}", System.Net.WebUtility.UrlEncode(username), System.Net.WebUtility.UrlEncode(password), System.Net.WebUtility.UrlEncode(redirectUri), System.Net.WebUtility.UrlEncode(clientId), System.Net.WebUtility.UrlEncode(clientSecret), System.Net.WebUtility.UrlEncode(scope));
